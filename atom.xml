@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>阿粟粟的简中流放地</title>
+  
+  <subtitle>流放至自由地</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-07-20T16:18:02.057Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>阿粟粟 / GigerET</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>琥珀</title>
+    <link href="http://yoursite.com/2020/07/20/hupo/"/>
+    <id>http://yoursite.com/2020/07/20/hupo/</id>
+    <published>2020-07-20T16:16:36.000Z</published>
+    <updated>2020-07-20T16:18:02.057Z</updated>
+    
+    <content type="html"><![CDATA[<p>是晶莹剔透</p><p>是栩栩如生</p><p>是一座孤岛</p><p>是我在里面</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;是晶莹剔透&lt;/p&gt;
+&lt;p&gt;是栩栩如生&lt;/p&gt;
+&lt;p&gt;是一座孤岛&lt;/p&gt;
+&lt;p&gt;是我在里面&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+      <category term="闲言" scheme="http://yoursite.com/tags/%E9%97%B2%E8%A8%80/"/>
+    
+  </entry>
+  
+</feed>
