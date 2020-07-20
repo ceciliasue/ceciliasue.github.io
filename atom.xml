@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>流放至自由地</title>
   
-  <subtitle>流放至自由地</subtitle>
+  <subtitle>往世不追 来世不待</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-07-20T16:18:02.057Z</updated>
+  <updated>2020-07-20T20:49:12.459Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>About Me</title>
+    <link href="http://yoursite.com/2020/07/20/about/"/>
+    <id>http://yoursite.com/2020/07/20/about/</id>
+    <published>2020-07-20T20:10:01.000Z</published>
+    <updated>2020-07-20T20:49:12.459Z</updated>
+    
+    <content type="html"><![CDATA[<p>阿粟粟 / GigerET<br><br>焚琴煮鹤的劳动妇女<br><br>从未去过洛阳的精神伧人<br><br><br><br><br></p><a id="more"></a><!-- ![simashi.png](https://i.loli.net/2020/07/21/t4roAWzBOHuS7EC.png) --><img src="https://i.loli.net/2020/07/21/t4roAWzBOHuS7EC.png" alt="avatar" width="300" style="border-radius:100%"/><br><br><br><br><br>三千好友，散落人间，皆为简中流亡人<br><br>[三径就荒](kamadhatu.github.io)<br><br><br>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;阿粟粟 / GigerET&lt;br&gt;&lt;br&gt;焚琴煮鹤的劳动妇女&lt;br&gt;&lt;br&gt;从未去过洛阳的精神伧人&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="闲言" scheme="http://yoursite.com/tags/%E9%97%B2%E8%A8%80/"/>
+    
+  </entry>
   
   <entry>
     <title>琥珀</title>
@@ -33,33 +54,6 @@
 &lt;p&gt;是栩栩如生&lt;/p&gt;
 &lt;p&gt;是一座孤岛&lt;/p&gt;
 &lt;p&gt;是我在里面&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-      <category term="闲言" scheme="http://yoursite.com/tags/%E9%97%B2%E8%A8%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>About Me</title>
-    <link href="http://yoursite.com/2019/12/01/about/"/>
-    <id>http://yoursite.com/2019/12/01/about/</id>
-    <published>2019-12-02T02:37:04.000Z</published>
-    <updated>2020-07-20T19:04:04.050Z</updated>
-    
-    <content type="html"><![CDATA[<blockquote><p>阿粟粟 / GigerET<br><br>焚琴煮鹤的劳动妇女<br>从未去过洛阳的精神伧人<br></p></blockquote>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;blockquote&gt;
-&lt;p&gt;阿粟粟 / GigerET&lt;br&gt;&lt;br&gt;焚琴煮鹤的劳动妇女&lt;br&gt;从未去过洛阳的精神伧人&lt;br&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
 
       
     
